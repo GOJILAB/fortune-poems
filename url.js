@@ -57,6 +57,7 @@ const urls = [
 	'https://ytc.mljy.org/113/fortune-poems/47',
 	'https://ytc.mljy.org/113/fortune-poems/48',
 	'https://ytc.mljy.org/113/fortune-poems/49',
-	'https://ytc.mljy.org/113/fortune-poems/50'
+	'https://ytc.mljy.org/113/fortune-poems/50',
+	'https://ji-gongbuddha-poetry.netlify.app/'
 ];
 
